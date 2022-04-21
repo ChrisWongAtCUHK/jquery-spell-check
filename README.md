@@ -1,0 +1,1 @@
+# [The JQuery Spell Check Plugin](https://www.javascriptspellcheck.com/jquery-spell-check)
